@@ -33,12 +33,19 @@
 
 ---
 
-## 📫 Find Me Here
+## 🔗 Connect with Me
 
-<a href="https://discord.com/users/yourID"><img src="https://img.icons8.com/ios-filled/30/5865F2/discord-logo.png"/></a>
-<a href="mailto:your.email@gmail.com"><img src="https://img.icons8.com/ios-filled/30/D14836/gmail.png"/></a>
-<a href="https://linkedin.com/in/your-profile"><img src="https://img.icons8.com/ios-filled/30/0077B5/linkedin.png"/></a>
+<a href="mailto:your.email@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40px" style="margin-right:10px"/>
+</a>
 
+<a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Discord.svg" width="40px" style="margin-right:10px"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40px" />
+</a>
 
 ---
 
