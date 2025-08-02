@@ -24,6 +24,15 @@
 ### Learning Next:
 [![My Skills](https://skillicons.dev/icons?i=js,rust,java)](https://skillicons.dev)
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Megatron778&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Megatron778&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
 
 ---
 
