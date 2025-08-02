@@ -3,7 +3,7 @@
 
 ---
 
-🌟 I’m currently focused on mastering the fundamentals of **Go (Golang)** at [Zone01 Oujda](https://zone01oujda.org/)
+🌟 I’m currently focused on mastering the fundamentals of **Go (Golang)** at [Zone01 Oujda](https://zone01oujda.ma/)
 
 💡 Fascinated by low-level programming, performance optimization, and problem-solving
 
