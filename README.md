@@ -35,11 +35,11 @@
 
 ---
 
-## 🔗 Connect With Me
+## 📫 Find Me Here
 
-- 💬 Discord: [yourUsername#1234](https://discord.com/users/yourID)
-- 📧 Email: [your.email@gmail.com](mailto:your.email@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+<a href="https://discord.com/users/yourID"><img src="https://img.icons8.com/ios-filled/30/5865F2/discord-logo.png"/></a>
+<a href="mailto:your.email@gmail.com"><img src="https://img.icons8.com/ios-filled/30/D14836/gmail.png"/></a>
+<a href="https://linkedin.com/in/your-profile"><img src="https://img.icons8.com/ios-filled/30/0077B5/linkedin.png"/></a>
 
 
 ---
