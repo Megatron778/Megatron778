@@ -35,14 +35,16 @@
 
 ---
 
-## 🌐 Connect with Me
+## 📬 Contact 
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Yassinbourazza11@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-bourazza-49aa8235a)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yourID)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+
 
 ---
 
-> “The more I learn, the more I realize how much I have yet to discover.”  
+> "If you want to go fast, go alone. If you want to go far, go together."
 > — *Yassine Bourazza*
 
 
